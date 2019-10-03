@@ -1,0 +1,22 @@
+[
+  {
+    "url": "www.baidu.com",
+    "clientIdKey": "clientId",
+    "clientId": "klnsdlfnl",
+    "secretKey": "clientSecret",
+    "clientSecret": "kllkdsnfl",
+    "method": "post",
+    "para": "{'bank':'HSBC'}"
+  },
+  {
+    "url": "www.baidu.com",
+    "clientIdKey": "clientId",
+    "clientId": "klnsdlfnl",
+    "secretKey": "clientSecret",
+    "clientSecret": "kllkdsnfl",
+    "method": "get",
+    "para": "?bank=HSBC"
+  }
+]
+
+
